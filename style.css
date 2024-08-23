@@ -2,3 +2,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: #faf9f6;
 }
+
+footer {
+    font-size: 0.8rem;
+}
